@@ -1,0 +1,2 @@
+# 35-COLLABORATION-ANDROID-TWOSOMEHEART
+SOPT 35기 합동세미나 안드로이드 투썸하트 레포지토리입니다
